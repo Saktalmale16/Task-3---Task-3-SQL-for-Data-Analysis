@@ -14,6 +14,7 @@ Aggregated total quantity sold per product to identify top-performing items.
 
 Summarized total revenue generated per country to determine top markets.
 
+![image.alt]()
 ___
 
 🔗 b) JOINS
