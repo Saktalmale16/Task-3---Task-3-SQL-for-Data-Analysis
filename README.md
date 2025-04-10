@@ -49,6 +49,7 @@ Created a reusable monthly sales summary view, including total quantity sold and
 
 Queried the view to analyze sales trends over time efficiently.
 
+![image.alt]()
 ___
 
 🚀 f) Optimizing with Indexes
