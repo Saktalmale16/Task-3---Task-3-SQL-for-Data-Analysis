@@ -34,6 +34,9 @@ Performed a self-join to find product pairs frequently bought together, useful f
 Identified customers who spent more than £1,000 using aggregate filtering in a HAVING clause.
 
 Detected products that were never sold by comparing against a list of sold items with positive quantities.
+
+[![image.alt]()
+
 ___
 
 📊 d) Aggregate Functions
