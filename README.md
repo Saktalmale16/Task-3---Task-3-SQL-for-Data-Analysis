@@ -35,7 +35,7 @@ Identified customers who spent more than £1,000 using aggregate filtering in a 
 
 Detected products that were never sold by comparing against a list of sold items with positive quantities.
 
-[![image.alt]()
+[![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/7%20sql.PNG)
 
 ___
 
