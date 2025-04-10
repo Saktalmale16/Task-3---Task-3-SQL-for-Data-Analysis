@@ -42,7 +42,7 @@ Calculated the average order value by summing invoice totals and finding their a
 
 Counted the number of distinct invoices per customer to analyze buying frequency.
 
-[![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/1sql.PNG))
+[![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/10%20%2C11sql.PNG)
 ___
 
 👁️ e) Creating Views
