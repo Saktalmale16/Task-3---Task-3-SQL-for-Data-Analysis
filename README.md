@@ -27,6 +27,8 @@ Implemented a LEFT JOIN to list all customers along with any matching sales, inc
 
 Performed a self-join to find product pairs frequently bought together, useful for market basket analysis.
 
+[![image.alt]([![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/1sql.PNG))
+
 ___
 
 🔍 c) Subqueries
