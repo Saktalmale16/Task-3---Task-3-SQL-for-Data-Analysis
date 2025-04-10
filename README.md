@@ -14,7 +14,7 @@ Aggregated total quantity sold per product to identify top-performing items.
 
 Summarized total revenue generated per country to determine top markets.
 
-![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/1sql.PNG)
+[![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/1sql.PNG)
 ___
 
 🔗 b) JOINS
@@ -41,6 +41,8 @@ ___
 Calculated the average order value by summing invoice totals and finding their average.
 
 Counted the number of distinct invoices per customer to analyze buying frequency.
+
+[![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/1sql.PNG))
 ___
 
 👁️ e) Creating Views
