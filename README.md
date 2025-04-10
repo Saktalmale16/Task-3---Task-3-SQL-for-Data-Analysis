@@ -49,12 +49,13 @@ Created a reusable monthly sales summary view, including total quantity sold and
 
 Queried the view to analyze sales trends over time efficiently.
 
-![image.alt]()
+![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/11%20sql.PNG)
 ___
 
 🚀 f) Optimizing with Indexes
 
 Added indexes to frequently used columns (CustomerID, InvoiceDate, StockCode) to improve query performance, especially on filtering and joining operations.
 
+![image.alt]()
 ___
 
