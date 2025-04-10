@@ -56,6 +56,6 @@ ___
 
 Added indexes to frequently used columns (CustomerID, InvoiceDate, StockCode) to improve query performance, especially on filtering and joining operations.
 
-![image.alt]()
+![image.alt](https://github.com/Saktalmale16/Task-3---Task-3-SQL-for-Data-Analysis/blob/main/12%20sql.PNG)
 ___
 
