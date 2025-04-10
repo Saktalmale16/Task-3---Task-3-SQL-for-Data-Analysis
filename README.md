@@ -27,3 +27,32 @@ Implemented a LEFT JOIN to list all customers along with any matching sales, inc
 Performed a self-join to find product pairs frequently bought together, useful for market basket analysis.
 
 ___
+
+🔍 c) Subqueries
+
+Identified customers who spent more than £1,000 using aggregate filtering in a HAVING clause.
+
+Detected products that were never sold by comparing against a list of sold items with positive quantities.
+___
+
+📊 d) Aggregate Functions
+
+Calculated the average order value by summing invoice totals and finding their average.
+
+Counted the number of distinct invoices per customer to analyze buying frequency.
+___
+
+👁️ e) Creating Views
+
+Created a reusable monthly sales summary view, including total quantity sold and revenue per month.
+
+Queried the view to analyze sales trends over time efficiently.
+
+___
+
+🚀 f) Optimizing with Indexes
+
+Added indexes to frequently used columns (CustomerID, InvoiceDate, StockCode) to improve query performance, especially on filtering and joining operations.
+
+___
+
